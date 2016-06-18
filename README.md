@@ -1,4 +1,4 @@
-# apache spark job server with webapp #
+# apache spark job server with web server #
   A very simple example of word count job(See example in https://github.com/spark-jobserver/spark-jobserver).
   Input from a form will launch job WordCountExample. A json response will appear, once job is done.
 
