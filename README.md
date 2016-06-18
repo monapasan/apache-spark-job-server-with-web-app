@@ -3,7 +3,7 @@
 ## Build & Run ##
 
 ```sh
-$ cd Wikiplag_Web_App
+$ cd apache-spark-job-server-with-web-app
 $ ./sbt
 > jetty:start
 > browse
