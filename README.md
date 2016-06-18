@@ -1,4 +1,6 @@
-# Wikiplag Web App #
+# apache spark job server with webapp #
+  A very simple example of word count job(See example in https://github.com/spark-jobserver/spark-jobserver).
+  Input from a form will launch job WordCountExample. A json response will appear, once job is done.
 
 ## Build & Run ##
 
